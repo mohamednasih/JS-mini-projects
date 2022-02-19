@@ -1,0 +1,15 @@
+body{
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: #15202B;
+}
+.container,
+.row{
+    min-height: 100vh;
+    max-height: 100vh;
+}
+.btn{
+    height: 8rem;
+    width: 8rem;
+    border-radius: 50%;
+}
